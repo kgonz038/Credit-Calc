@@ -1,0 +1,51 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 29, 2020, 11:59:09 PM
+    Author     : KIM
+*/
+
+.root 
+{
+ -fx-background-color: rgb(199, 189, 185);   
+}
+
+.label 
+{ 
+    -fx-font-family: arial;
+    -fx-background-color: rgb(148, 119, 115);
+    -fx-text-fill: white;
+    -fx-font-size: 12pt;
+    -fx-font-weight: bolder;
+}
+
+.text-field 
+{
+    -fx-font-family: arial;
+    -fx-font-size: 12pt;
+    -fx-text-fill: black;
+    -fx-font-weight: bold;
+    -fx-text-alignment: center;
+}
+
+.radio-button
+{
+    -fx-font-family: fantasy;
+    -fx-font-size: 10pt;
+    -fx-text-fill: rgb(84, 55, 53);
+    -fx-font-weight: bold;
+    -fx-text-alignment: center;
+}
+
+.button 
+{
+    -fx-font-family: fantasy;
+    -fx-background-color: rgb(97, 62, 56);
+    -fx-text-fill: rgb(230, 236, 228);
+    -fx-font-weight: bolder;
+    -fx-font-size: 12pt;
+}
+
